@@ -1,5 +1,3 @@
-# youtube-sentiment-analysis
-
 # YouTube Comment Sentiment Analysis 🎥💬
 
 This project analyzes the sentiment (positive, negative, neutral) of YouTube comments using Python NLP tools in Google Colab.
