@@ -28,4 +28,6 @@ This project analyzes the sentiment (positive, negative, neutral) of YouTube com
 
 ## NEXT IMPLEMENTS:
 - understand multiple language. understand even if it written in english like helu mathe.
-- Slang like u means you
+- 🤖 Pre-trained word embeddings (Word2Vec, GloVe)
+- 🤖 Language models like BERT or symspell (for typo correction)
+- 📚 Slang APIs (Urban Dictionary unofficial APIs)
