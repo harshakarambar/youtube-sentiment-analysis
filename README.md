@@ -25,3 +25,7 @@ This project analyzes the sentiment (positive, negative, neutral) of YouTube com
 
 ## 👨‍💻 Author:
 - Harsha K (Final Year MCA)
+
+
+##NEXT IMPLEMENTS:
+understand multiple language. understand even if it written in english like helu mathe. 
